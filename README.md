@@ -1,6 +1,7 @@
 # JupiterMassChecker
 Cookie mass checker (jupiter) writen in python 
-#Читай!
+
+# Читай!
 куки поступают в файле cookies.txt который в той же папке что и чекер
 куки идут в формате:
 
